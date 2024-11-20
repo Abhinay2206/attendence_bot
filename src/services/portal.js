@@ -6,11 +6,11 @@ class PortalService {
     this.page = page;
   }
 
-  async login(mobileNumber) {
+  async login(portalUrl,mobileNumber,institute) {
     try {
-      logger.info(`Navigating to portal: ${constants.PORTAL_URL}`);
-      await this.page.goto(constants.PORTAL_URL, {
-        waitUntil: 'networkidle0',
+      logger.info(`Navigating to portal: ${portalUrl}`);
+      await this.page.goto(portalUrl, {
+        waitUntil: 'domcontentloaded',
         timeout: constants.TIMEOUTS.NAVIGATION
       });
 
@@ -21,94 +21,105 @@ class PortalService {
 
       logger.info('Filling login credentials');
       await this.page.type(constants.SELECTORS.MOBILE_INPUT, mobileNumber);
-      await this.page.type(constants.SELECTORS.PASSWORD_INPUT, constants.DEFAULT_PASSWORD);
+      const password = institute === 'NGIT' ? 'Ngit123$' : 'Kmec123$';
+      await this.page.type(constants.SELECTORS.PASSWORD_INPUT, password);
 
       logger.info('Submitting login form');
       await Promise.all([
-        this.page.evaluate(() => {
-          document.querySelector('form').submit();
-        }),
+        this.page.click(constants.SELECTORS.SUBMIT_BUTTON),
         this.page.waitForNavigation({
-          waitUntil: 'networkidle0',
+          waitUntil: 'domcontentloaded',
           timeout: constants.TIMEOUTS.LOGIN_WAIT
         })
       ]);
 
-      // Check for login errors
       const errorElement = await this.page.$('.error-message, .alert-danger');
       if (errorElement) {
         const errorText = await this.page.evaluate(el => el.textContent, errorElement);
         throw new Error(`Login failed: ${errorText.trim()}`);
       }
 
-      logger.info('Login successful');
+      logger.info('Navigating to attendance page after login');
+      const attendanceUrl = institute === 'NGIT' 
+        ? 'http://ngit-sanjaya.teleuniv.in/parent/attendance' 
+        : 'http://kmec-sanjaya.teleuniv.in/parent/attendance';
+      await this.page.goto(attendanceUrl, {
+        waitUntil: 'domcontentloaded',
+        timeout: constants.TIMEOUTS.NAVIGATION
+      });
+      
+      logger.info('Login and navigation successful');
     } catch (error) {
-      logger.error('Login failed', { error: error.message, mobileNumber });
-      throw new Error(`Login failed: ${error.message}`);
+      const errorMessage = error.message || 'Unknown error';
+      logger.error('Login failed', { error: errorMessage, mobileNumber });
+      throw new Error(`Login failed: ${errorMessage}`);
     }
   }
 
   async extractAttendanceData() {
     try {
-      logger.info('Waiting for attendance table');
-      await this.page.waitForSelector(constants.SELECTORS.SUBJECT_ROW, {
-        timeout: constants.TIMEOUTS.ELEMENT_WAIT
+      logger.info('Waiting for attendance section');
+      await this.page.waitForSelector('.ant-collapse-item', {
+        visible: true,
+        timeout: constants.TIMEOUTS.ELEMENT_WAIT,
       });
-
-      // Take screenshot for debugging
-      await this.page.screenshot({ path: 'attendance-page.png' });
-
-      logger.info('Extracting attendance data');
-      const data = await this.page.evaluate((selectors) => {
-        const rows = Array.from(document.querySelectorAll(selectors.SUBJECT_ROW));
-        const subjects = [];
-        let totalAttendance = 0;
-        let subjectCount = 0;
-
-        // Skip header row
-        for (let i = 1; i < rows.length; i++) {
-          const row = rows[i];
-          const subject = row.querySelector(selectors.SUBJECT_CELL)?.innerText?.trim();
-          const theory = row.querySelector(selectors.THEORY_CELL)?.innerText?.trim();
-          const practical = row.querySelector(selectors.PRACTICAL_CELL)?.innerText?.trim();
-
-          if (subject && theory && !subject.toLowerCase().includes('subject')) {
-            const theoryPercentage = parseFloat(theory.replace('%', '')) || 0;
-            subjects.push({
-              subject,
-              theory: theory || 'N/A',
-              practical: practical || 'N/A'
-            });
-            totalAttendance += theoryPercentage;
-            subjectCount++;
+  
+      // Expand the "Overall" section using a CSS selector
+      logger.info('Expanding the "Overall" attendance section');
+      await this.page.evaluate(() => {
+        const overallSection = Array.from(document.querySelectorAll('.ant-collapse-item')).find(section =>
+          section.textContent.includes('Overall')
+        );
+        if (overallSection) {
+          overallSection.querySelector('.ant-collapse-header').click();
+        } else {
+          throw new Error('Overall section not found');
+        }
+      });
+  
+      // Wait for the progress bar to load within the "Overall" section
+      logger.info('Waiting for progress bar in "Overall" section');
+      await this.page.waitForSelector('.ant-collapse-item-active .ant-progress-bg', {
+        visible: true,
+        timeout: constants.TIMEOUTS.ELEMENT_WAIT,
+      });
+  
+      // Extract attendance percentage from the "Overall" section
+      const overallAttendance = await this.page.evaluate(() => {
+        const overallProgressElement = document.querySelector('.ant-collapse-item-active .ant-progress-bg');
+        if (!overallProgressElement) {
+          throw new Error('Progress bar not found in "Overall" section');
+        }
+  
+        const computedStyle = window.getComputedStyle(overallProgressElement);
+        const widthStyle = computedStyle.getPropertyValue('width');
+  
+        // Check if attendance is expressed as a percentage in style
+        const percentageMatch = overallProgressElement.style.width.match(/([\d.]+)%/);
+        if (percentageMatch && percentageMatch[1]) {
+          return parseFloat(percentageMatch[1]).toFixed(2);
+        }
+  
+        // Fallback: Check the computed width in pixels
+        if (widthStyle && widthStyle.includes('px')) {
+          const pixelWidth = parseFloat(widthStyle);
+          const containerWidth = overallProgressElement.parentElement.clientWidth;
+          if (containerWidth > 0) {
+            return ((pixelWidth / containerWidth) * 100).toFixed(2);
           }
         }
-
-        const averageAttendance = subjectCount > 0 
-          ? (totalAttendance / subjectCount).toFixed(2) 
-          : 0;
-
-        return {
-          subjects,
-          averageAttendance
-        };
-      }, constants.SELECTORS);
-
-      if (!data.subjects.length) {
-        throw new Error('No attendance data found in the table');
-      }
-
-      logger.info('Successfully extracted attendance data', { 
-        subjectsCount: data.subjects.length,
-        averageAttendance: data.averageAttendance 
+  
+        throw new Error('Could not extract attendance percentage from "Overall" section');
       });
-
-      return data;
+  
+      logger.info('Successfully extracted overall attendance', { overallAttendance });
+      return { overallAttendance };
     } catch (error) {
-      logger.error('Failed to extract attendance data', { error: error.message });
-      throw new Error(`Failed to extract attendance data: ${error.message}`);
+      const errorMessage = error.message || 'Unknown error';
+      logger.error('Failed to extract overall attendance', { error: errorMessage });
+      throw new Error(`Failed to extract overall attendance: ${errorMessage}`);
     }
-  }
+  }  
 }
 
 module.exports = PortalService;

@@ -1,4 +1,4 @@
-const puppeteer = require('puppeteer-firefox');
+const puppeteer = require('puppeteer');
 const logger = require('../utils/logger');
 
 class BrowserService {
@@ -8,13 +8,12 @@ class BrowserService {
 
   async initialize() {
     try {
-      logger.info('Initializing Firefox browser');
+      logger.info('Initializing Chrome browser');
       this.browser = await puppeteer.launch({
         headless: true,
-        args: ['--no-sandbox'],
-        product: 'firefox'
+        args: ['--no-sandbox']
       });
-      logger.info('Firefox browser initialized successfully');
+      logger.info('Chrome browser initialized successfully');
       return this.browser;
     } catch (error) {
       logger.error('Failed to initialize browser', { error: error.message });

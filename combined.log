@@ -9,3 +9,739 @@
 {"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:10:31.323Z"}
 {"error":"Firefox revision is not downloaded. Run \"npm install\" or \"yarn install\"","level":"error","message":"Failed to initialize browser","timestamp":"2024-11-18T17:10:31.392Z"}
 {"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:10:31.454Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:26:20.882Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:26:35.228Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/parent/attendance","timestamp":"2024-11-18T17:26:35.511Z"}
+{"error":"Unknown waitUntil condition: networkidle0","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:26:35.511Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:26:35.526Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:26:35.526Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:29:46.718Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:29:49.434Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/parent/attendance","timestamp":"2024-11-18T17:29:49.702Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:29:55.018Z"}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:30:05.021Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:30:05.041Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:30:05.041Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:30:43.810Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:30:46.551Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/parent/attendance","timestamp":"2024-11-18T17:30:46.821Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:30:54.059Z"}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:31:04.063Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:31:04.096Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:31:04.096Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:32:00.824Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:32:03.499Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/parent/attendance","timestamp":"2024-11-18T17:32:03.771Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:32:11.144Z"}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949291064","timestamp":"2024-11-18T17:32:21.146Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:32:21.168Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:32:21.168Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:32:38.132Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:32:40.450Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/parent/attendance","timestamp":"2024-11-18T17:32:40.729Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:32:45.415Z"}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:34:04.770Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:34:07.273Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/parent/attendance","timestamp":"2024-11-18T17:34:07.541Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:34:12.458Z"}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:34:22.462Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:34:22.493Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:34:22.493Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:37:10.006Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:37:12.726Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/parent/attendance","timestamp":"2024-11-18T17:37:13.004Z"}
+{"error":"Unknown waitUntil condition: networkidle0","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:37:13.004Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:37:13.016Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:37:13.016Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:41:28.360Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:41:31.017Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/parent/attendance","timestamp":"2024-11-18T17:41:31.291Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:41:36.059Z"}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:41:46.063Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:41:46.094Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:41:46.094Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:42:05.280Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:42:07.628Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T17:42:07.935Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:42:15.003Z"}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:42:25.006Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:42:25.038Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:42:25.038Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:46:44.136Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:46:48.015Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T17:46:48.281Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:46:53.072Z"}
+{"error":"waiting for selector \"#login-form\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:47:23.079Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:47:23.119Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:47:23.119Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:47:42.481Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:47:44.952Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T17:47:45.229Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:47:52.577Z"}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:48:22.581Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:48:22.617Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:48:22.617Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:50:00.952Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:50:03.518Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T17:50:03.780Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:50:18.901Z"}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:50:48.904Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:50:48.932Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:50:48.932Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:53:25.474Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:53:27.862Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T17:53:28.126Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:53:35.504Z"}
+{"error":"waiting for selector \"[id=\"login\"]\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:54:05.508Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:54:05.543Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:54:05.543Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:56:05.518Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:56:07.865Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T17:56:08.126Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:56:17.510Z"}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:56:47.514Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:56:47.531Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:56:47.531Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T17:58:48.355Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T17:58:50.907Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T17:58:51.174Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T17:58:56.610Z"}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:59:26.612Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T17:59:26.646Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:59:26.647Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T18:00:05.659Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T18:00:08.006Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:00:08.276Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:00:16.465Z"}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:00:46.471Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:00:46.497Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:00:46.498Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T18:02:15.749Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T18:02:18.438Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:02:18.717Z"}
+{"error":"Unknown waitUntil condition: networkidle2","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:02:18.718Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:02:18.730Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:02:18.730Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T18:04:06.274Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T18:04:08.800Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:04:09.076Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:04:11.115Z"}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:04:41.118Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:04:41.148Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:04:41.148Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T18:09:44.335Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T18:09:46.994Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:09:47.271Z"}
+{"error":"Unknown waitUntil condition: networkidle2","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:09:47.272Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:09:47.285Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:09:47.285Z","userId":5814590204}
+{"level":"info","message":"Initializing Firefox browser","timestamp":"2024-11-18T18:12:03.031Z"}
+{"level":"info","message":"Firefox browser initialized successfully","timestamp":"2024-11-18T18:12:05.451Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:12:05.715Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:12:07.893Z"}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:12:37.897Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:12:37.920Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:12:37.920Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:13:36.345Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:13:39.022Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:13:39.063Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:13:42.413Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:13:43.945Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:13:44.016Z"}
+{"error":"Cannot read properties of undefined (reading 'startsWith')","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:13:44.016Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:13:44.152Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:13:44.153Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:15:54.536Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:15:55.203Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:15:55.257Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:15:59.218Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:16:00.720Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:16:00.812Z"}
+{"error":"Cannot read properties of undefined (reading 'startsWith')","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:16:00.813Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:16:00.967Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:16:00.967Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:21:13.356Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:21:14.079Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:21:14.126Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:21:17.811Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:21:19.882Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:21:19.962Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:21:21.791Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:21:22.306Z"}
+{"level":"info","message":"Waiting for attendance table","timestamp":"2024-11-18T18:21:22.306Z"}
+{"error":"Waiting for selector `table tr` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract attendance data","timestamp":"2024-11-18T18:21:52.310Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:21:52.384Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:21:52.384Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:23:49.693Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:23:50.357Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:23:50.407Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:23:54.401Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:23:56.397Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:23:56.473Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:23:57.983Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:23:58.491Z"}
+{"level":"info","message":"Waiting for attendance table","timestamp":"2024-11-18T18:23:58.491Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:24:09.334Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:24:09.696Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:24:09.716Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:24:14.537Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:24:16.660Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:24:16.731Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:24:18.618Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:24:19.145Z"}
+{"level":"info","message":"Waiting for attendance table","timestamp":"2024-11-18T18:24:19.145Z"}
+{"error":"Waiting for selector `.ant-table-tbody tr` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract attendance data","timestamp":"2024-11-18T18:24:49.149Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:24:49.225Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:24:49.225Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:34:18.390Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:34:19.095Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:34:19.135Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:34:23.031Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:34:24.795Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:34:24.872Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:34:26.598Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:34:27.101Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:34:27.101Z"}
+{"error":"Waiting for selector `.ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:34:57.106Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:34:57.185Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:34:57.185Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:36:29.736Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:36:30.426Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:36:30.466Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:36:33.544Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:36:35.499Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:36:35.578Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:36:37.056Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:36:37.587Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:36:37.587Z"}
+{"error":"Waiting for selector `.ant-progress.ant-progress-line.ant-progress-status-normal.ant-progress-show-info.ant-progress-default` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:37:07.591Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:37:07.672Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:37:07.672Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:38:59.238Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:38:59.979Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:39:00.036Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:39:03.709Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:39:05.367Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:39:05.447Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:39:06.837Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:39:07.340Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:39:07.341Z"}
+{"error":"Waiting for selector `div.ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:39:37.346Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:39:37.413Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:39:37.414Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:42:39.274Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:42:39.969Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:42:40.025Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:42:43.840Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:42:45.642Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:42:45.725Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:42:48.159Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:42:48.873Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:42:48.874Z"}
+{"error":"Waiting for selector `div.ant-progress.ant-progress-line .ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:43:18.878Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:43:18.945Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:43:18.946Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:44:14.306Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:44:14.987Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:44:15.023Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:44:18.262Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:44:19.942Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:44:20.022Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:44:21.550Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:44:22.064Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:44:22.065Z"}
+{"error":"Waiting for selector `.ant-progress.ant-progress-line .ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:44:52.069Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:44:52.150Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:44:52.150Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:45:18.997Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:45:19.477Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:45:19.501Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:45:23.049Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:45:24.851Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:45:24.916Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:45:26.387Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:45:26.993Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:45:26.994Z"}
+{"error":"Waiting for selector `.ant-progress.ant-progress-line .ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:45:57.000Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:45:57.071Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:45:57.072Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:46:28.483Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:46:28.949Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:46:28.978Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:46:32.647Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:46:34.442Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:46:34.512Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:46:35.995Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:46:36.596Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:46:36.597Z"}
+{"error":"Waiting for selector `.ant-progress.ant-progress-line .ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:47:36.600Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:47:36.667Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:47:36.667Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:49:37.734Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:49:38.463Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:49:38.522Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:49:42.900Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:49:45.411Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:49:45.487Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:49:47.084Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:49:47.595Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:49:47.596Z"}
+{"error":"Waiting for selector `.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:50:47.600Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:50:47.687Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:50:47.688Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:55:13.230Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:55:13.913Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:55:13.974Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:55:17.284Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:55:19.362Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:55:19.444Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:55:20.872Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:55:21.425Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:55:21.426Z"}
+{"error":"Waiting for selector `.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:56:21.434Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T18:56:21.508Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:56:21.509Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T18:58:53.238Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T18:58:53.961Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T18:58:53.994Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T18:58:57.312Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T18:58:58.901Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T18:58:58.982Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T18:59:00.665Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T18:59:01.182Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T18:59:01.183Z"}
+{"error":"Waiting for selector `.ant-progress-bg, .attendance-progress, .progress-bar` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:00:01.188Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T19:00:01.270Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:00:01.270Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T19:02:08.110Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T19:02:08.738Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T19:02:08.797Z"}
+{"error":"Navigation timeout of 60000 ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T19:03:08.799Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T19:03:08.875Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:03:08.875Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T19:03:36.822Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T19:03:37.315Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T19:03:37.337Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T19:03:43.903Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T19:03:47.653Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T19:03:47.730Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T19:03:49.137Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T19:03:49.638Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T19:03:49.639Z"}
+{"error":"Waiting for selector `.ant-progress-bg, .attendance-progress, .progress-bar` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:04:49.644Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T19:04:49.719Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:04:49.720Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T19:05:52.293Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T19:05:52.772Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T19:05:52.797Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T19:05:58.975Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T19:06:03.049Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T19:06:03.113Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T19:06:04.505Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T19:06:05.105Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T19:06:05.105Z"}
+{"error":"Waiting for selector `.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:07:05.109Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T19:07:05.179Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:07:05.180Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T19:18:00.030Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T19:18:00.758Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T19:18:00.821Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T19:18:04.607Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T19:18:07.077Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T19:18:07.154Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T19:18:08.683Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T19:18:09.186Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T19:18:09.187Z"}
+{"error":"Waiting for selector `[class*=\"ant-progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:19:09.194Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T19:19:09.278Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:19:09.278Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T19:19:35.673Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T19:19:36.351Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T19:19:36.382Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T19:19:40.549Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T19:19:42.838Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T19:19:42.909Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T19:19:44.644Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T19:19:45.204Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T19:19:45.204Z"}
+{"error":"Waiting for selector `[class*=\"ant-progress-inner\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:20:45.209Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T19:20:45.289Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:20:45.290Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T19:21:13.955Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T19:21:14.444Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T19:21:14.465Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T19:21:18.648Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T19:21:21.224Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T19:21:21.293Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T19:21:22.938Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T19:21:23.552Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T19:21:23.553Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-18T19:22:07.116Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-18T19:22:07.598Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-18T19:22:07.621Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-18T19:22:11.455Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-18T19:22:13.855Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-18T19:22:13.937Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-18T19:22:15.366Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-18T19:22:15.881Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-18T19:22:15.882Z"}
+{"error":"Waiting for selector `div.ant-progress.ant-progress-line.ant-progress-status-normal.ant-progress-show-info.ant-progress-default` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:23:15.887Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-18T19:23:15.967Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:23:15.968Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-19T14:52:24.433Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-19T14:52:25.265Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-19T14:52:25.314Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-19T14:52:29.757Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-19T14:52:32.017Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-19T14:52:32.091Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-19T14:52:35.950Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-19T14:52:36.685Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-19T14:52:36.686Z"}
+{"error":"Waiting for selector `div.ant-progress.ant-progress-line.ant-progress-status-normal.ant-progress-show-info.ant-progress-default` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T14:53:36.689Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-19T14:53:36.755Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T14:53:36.755Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-19T14:53:44.539Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-19T14:53:45.000Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-19T14:53:45.025Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-19T14:53:49.395Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-19T14:53:51.241Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-19T14:53:51.308Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-19T14:53:52.695Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-19T14:53:53.219Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-19T14:53:53.220Z"}
+{"error":"Waiting for selector `div.ant-progress.ant-progress-line.ant-progress-status-normal.ant-progress-show-info.ant-progress-default.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T14:54:53.223Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-19T14:54:53.294Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T14:54:53.294Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-19T14:55:28.264Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-19T14:55:28.722Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-19T14:55:28.748Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-19T14:55:32.947Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-19T14:55:34.905Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-19T14:55:34.973Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-19T14:55:36.621Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-19T14:55:37.221Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-19T14:55:37.222Z"}
+{"error":"Waiting for selector `div.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T14:56:37.227Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-19T14:56:37.305Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T14:56:37.305Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-19T15:03:45.308Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-19T15:03:46.072Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-19T15:03:46.122Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-19T15:03:53.269Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-19T15:03:56.885Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-19T15:03:56.965Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-19T15:03:59.502Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-19T15:04:00.043Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-19T15:04:00.044Z"}
+{"error":"Waiting for selector `div.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T15:05:00.070Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-19T15:05:00.158Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T15:05:00.159Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-19T15:10:11.184Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-19T15:10:11.885Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-19T15:10:11.933Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-19T15:10:18.340Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-19T15:10:22.102Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-19T15:10:22.195Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-19T15:10:23.752Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-19T15:10:24.281Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-19T15:10:24.282Z"}
+{"error":"Waiting for selector `div.ant-progress-success-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T15:11:24.287Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-19T15:11:24.390Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T15:11:24.390Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-19T15:12:21.293Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-19T15:12:22.067Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-19T15:12:22.095Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-19T15:12:28.673Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-19T15:12:32.969Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-19T15:12:33.057Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-19T15:12:34.904Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-19T15:12:35.468Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-19T15:12:35.468Z"}
+{"error":"Waiting for selector `div[class*=\"progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T15:13:35.472Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-19T15:13:35.554Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T15:13:35.555Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-19T16:36:28.017Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-19T16:36:28.912Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-19T16:36:28.970Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-19T16:36:33.639Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-19T16:36:35.224Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-19T16:36:35.306Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-19T16:36:37.155Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-19T16:36:37.807Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-19T16:36:37.808Z"}
+{"error":"Waiting for selector `div.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T16:37:37.815Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-19T16:37:37.895Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T16:37:37.895Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-19T16:42:41.077Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-19T16:42:41.873Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-19T16:42:41.936Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-19T16:42:45.527Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-19T16:42:47.637Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-19T16:42:47.719Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-19T16:42:49.296Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-19T16:42:49.847Z"}
+{"level":"info","message":"Checking page content after navigation","timestamp":"2024-11-19T16:42:49.848Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-19T16:42:49.886Z"}
+{"error":"Waiting for selector `div[class*=\"ant-progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T16:43:49.891Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-19T16:43:49.967Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T16:43:49.967Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-19T16:45:49.836Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-19T16:45:50.623Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-19T16:45:50.682Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-19T16:45:54.540Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-19T16:45:56.698Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-19T16:45:56.782Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-19T16:45:58.420Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-19T16:45:58.987Z"}
+{"level":"info","message":"Checking page content after navigation","timestamp":"2024-11-19T16:45:58.987Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-19T16:45:59.011Z"}
+{"error":"waitForProgressBar is not defined","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T16:45:59.012Z"}
+{"level":"info","message":"Captured screenshot for debugging","timestamp":"2024-11-19T16:45:59.070Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-19T16:45:59.142Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T16:45:59.142Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T10:34:39.503Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T10:34:40.404Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-20T10:34:40.469Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T10:34:44.600Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T10:34:46.648Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T10:34:46.721Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T10:34:48.214Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T10:34:48.696Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-20T10:34:48.696Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T10:35:49.598Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T10:35:50.110Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-20T10:35:50.140Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T10:35:54.342Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T10:35:56.426Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T10:35:56.503Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T10:35:58.112Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T10:35:58.597Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-20T10:35:58.598Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T10:36:22.196Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T10:36:22.631Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-20T10:36:22.650Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T10:36:25.888Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T10:36:27.905Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T10:36:27.972Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T10:36:29.406Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T10:36:29.875Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-20T10:36:29.876Z"}
+{"error":"Waiting for selector `div[class*=\"ant-progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-20T10:37:39.977Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T10:37:40.077Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T10:37:40.078Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T14:42:21.357Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T14:42:22.544Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T14:42:22.598Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T14:42:27.262Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T14:42:29.030Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T14:42:29.106Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T14:42:31.767Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T14:42:32.312Z"}
+{"level":"info","message":"Waiting for attendance progress bar","timestamp":"2024-11-20T14:42:32.313Z"}
+{"error":"Waiting for selector `div[class*=\"ant-progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-20T14:43:42.410Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T14:43:42.503Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T14:43:42.504Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T14:45:50.813Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T14:45:51.642Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T14:45:51.706Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T14:45:55.497Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T14:45:57.482Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T14:45:57.571Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T14:45:59.630Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T14:46:00.177Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T14:46:00.178Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T14:46:01.732Z"}
+{"error":"this.page.$x is not a function","level":"error","message":"Failed to extract overall attendance","timestamp":"2024-11-20T14:46:01.733Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T14:46:01.808Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T14:46:01.808Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T14:50:53.744Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T14:50:54.656Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T14:50:54.728Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T14:50:58.434Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T14:51:00.403Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T14:51:00.483Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T14:51:02.078Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T14:51:02.713Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T14:51:02.714Z"}
+{"level":"info","message":"Waiting for overall progress bar","timestamp":"2024-11-20T14:51:04.401Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T14:51:58.791Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T14:51:59.322Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T14:51:59.354Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T14:52:03.266Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T14:52:05.046Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T14:52:05.147Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T14:52:06.926Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T14:52:07.460Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T14:52:07.460Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T14:52:08.952Z"}
+{"error":"this.page.$x is not a function","level":"error","message":"Failed to extract overall attendance","timestamp":"2024-11-20T14:52:08.953Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T14:52:09.041Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T14:52:09.041Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T14:53:15.562Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T14:53:16.290Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T14:53:16.360Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T14:53:19.546Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T14:53:21.587Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T14:53:21.674Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T14:53:23.233Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T14:53:23.837Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T14:53:23.837Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T14:53:25.573Z"}
+{"error":"Cannot read properties of undefined (reading 'length')","level":"error","message":"Failed to extract overall attendance","timestamp":"2024-11-20T14:53:25.575Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T14:53:25.658Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T14:53:25.658Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T14:54:23.403Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T14:54:23.930Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T14:54:23.954Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T14:54:27.227Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T14:54:28.938Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T14:54:29.008Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T14:54:30.425Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T14:54:30.974Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T14:54:30.975Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T14:54:33.144Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T14:54:33.162Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T14:54:33.168Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T14:54:33.235Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T14:58:20.244Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T14:58:21.005Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T14:58:21.067Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T14:58:25.330Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T14:58:26.908Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T14:58:26.991Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T14:58:28.951Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T14:58:29.488Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T14:58:29.489Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T14:58:31.270Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T14:58:31.290Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T14:58:31.295Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T14:58:31.414Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T15:20:50.866Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T15:20:51.999Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T15:20:52.114Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T15:20:56.036Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T15:21:00.869Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T15:21:00.947Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T15:21:03.299Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T15:21:04.060Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T15:21:04.061Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T15:21:05.774Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T15:21:05.790Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T15:21:05.795Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T15:21:05.906Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T15:23:26.393Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T15:23:27.179Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T15:23:27.246Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T15:23:32.174Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T15:23:35.176Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T15:23:35.255Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T15:23:37.812Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T15:23:38.498Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T15:23:38.498Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T15:23:41.289Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T15:23:41.309Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T15:23:41.314Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T15:23:41.394Z"}
+{"error":"request to https://api.telegram.org/bot7974322122:[REDACTED]/getMe failed, reason: getaddrinfo ENOTFOUND api.telegram.org","level":"error","message":"Failed to start bot","timestamp":"2024-11-20T15:26:01.287Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T15:37:55.259Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T15:37:56.146Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T15:37:56.187Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T15:38:01.319Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T15:38:03.272Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T15:38:03.360Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T15:38:08.147Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T15:38:08.842Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T15:38:08.843Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T15:38:12.384Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T15:38:12.403Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T15:38:12.409Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T15:38:12.514Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T15:58:22.350Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T15:58:23.118Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T15:58:23.164Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T15:58:29.244Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T15:58:31.234Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T15:58:31.321Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T15:58:35.356Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T15:58:35.991Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T15:58:35.992Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T15:58:37.872Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T15:58:37.891Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T15:58:37.897Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T15:58:37.985Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T16:00:26.613Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T16:00:27.065Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T16:00:27.093Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T16:00:34.983Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T16:00:36.789Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T16:00:36.861Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T16:00:40.957Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T16:00:41.520Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T16:00:41.520Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T16:00:43.284Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T16:00:43.301Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"54.00","timestamp":"2024-11-20T16:00:43.306Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T16:00:43.366Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T16:02:59.530Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T16:03:00.352Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T16:03:00.417Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T16:03:06.379Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T16:03:07.922Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T16:03:08.017Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T16:03:15.660Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T16:03:16.199Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T16:03:16.200Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T16:03:18.098Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T16:03:18.113Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T16:03:18.119Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T16:03:18.203Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T16:12:03.310Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T16:12:04.110Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T16:12:04.166Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T16:12:11.464Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T16:12:13.050Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T16:12:13.136Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T16:12:17.135Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T16:12:18.469Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T16:12:18.470Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T16:12:20.006Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T16:12:20.025Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T16:12:20.030Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T16:12:20.126Z"}
+{"error":"ctx.message.text.trim(...).tolowerCase is not a function","level":"error","message":"Bot error","timestamp":"2024-11-20T16:18:53.634Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T16:19:50.483Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T16:19:51.253Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T16:19:51.319Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T16:20:09.218Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T16:20:11.718Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T16:20:11.802Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T16:20:16.629Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T16:20:17.864Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T16:20:17.865Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T16:20:25.827Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T16:20:25.845Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T16:20:25.850Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T16:20:25.943Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T16:28:22.731Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T16:28:23.961Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T16:28:24.031Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T16:28:27.520Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T16:28:29.094Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T16:28:29.187Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T16:28:31.039Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T16:28:31.573Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T16:28:31.574Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T16:28:33.380Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T16:28:33.401Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"68.42","timestamp":"2024-11-20T16:28:33.407Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T16:28:33.550Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T16:29:03.271Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T16:29:03.742Z"}
+{"level":"info","message":"Navigating to portal: http://kmec-sanjaya.teleuniv.in/","timestamp":"2024-11-20T16:29:03.793Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T16:29:06.505Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T16:29:08.049Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T16:29:08.115Z"}
+{"error":"Navigation timeout of 30000 ms exceeded","level":"error","message":"Login failed","mobileNumber":"7337427250","timestamp":"2024-11-20T16:29:38.117Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T16:29:38.190Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T16:29:38.190Z","userId":5814590204}
+{"error":"request to https://api.telegram.org/bot7974322122:[REDACTED]/getMe failed, reason: getaddrinfo ENOTFOUND api.telegram.org","level":"error","message":"Failed to start bot","timestamp":"2024-11-20T17:38:14.621Z"}

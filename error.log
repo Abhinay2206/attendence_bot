@@ -5,3 +5,114 @@
 {"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:08:00.198Z","userId":5814590204}
 {"error":"Firefox revision is not downloaded. Run \"npm install\" or \"yarn install\"","level":"error","message":"Failed to initialize browser","timestamp":"2024-11-18T17:10:31.392Z"}
 {"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:10:31.454Z","userId":5814590204}
+{"error":"Unknown waitUntil condition: networkidle0","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:26:35.511Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:26:35.526Z","userId":5814590204}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:30:05.021Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:30:05.041Z","userId":5814590204}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:31:04.063Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:31:04.096Z","userId":5814590204}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949291064","timestamp":"2024-11-18T17:32:21.146Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:32:21.168Z","userId":5814590204}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:34:22.462Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:34:22.493Z","userId":5814590204}
+{"error":"Unknown waitUntil condition: networkidle0","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:37:13.004Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:37:13.016Z","userId":5814590204}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:41:46.063Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:41:46.094Z","userId":5814590204}
+{"error":"waiting for selector \"form\" failed: timeout 10000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:42:25.006Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:42:25.038Z","userId":5814590204}
+{"error":"waiting for selector \"#login-form\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:47:23.079Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:47:23.119Z","userId":5814590204}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:48:22.581Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:48:22.617Z","userId":5814590204}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:50:48.904Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:50:48.932Z","userId":5814590204}
+{"error":"waiting for selector \"[id=\"login\"]\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:54:05.508Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:54:05.543Z","userId":5814590204}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:56:47.514Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:56:47.531Z","userId":5814590204}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T17:59:26.612Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T17:59:26.647Z","userId":5814590204}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:00:46.471Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:00:46.498Z","userId":5814590204}
+{"error":"Unknown waitUntil condition: networkidle2","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:02:18.718Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:02:18.730Z","userId":5814590204}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:04:41.118Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:04:41.148Z","userId":5814590204}
+{"error":"Unknown waitUntil condition: networkidle2","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:09:47.272Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:09:47.285Z","userId":5814590204}
+{"error":"waiting for selector \"#login\" failed: timeout 30000ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:12:37.897Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:12:37.920Z","userId":5814590204}
+{"error":"Cannot read properties of undefined (reading 'startsWith')","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:13:44.016Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:13:44.153Z","userId":5814590204}
+{"error":"Cannot read properties of undefined (reading 'startsWith')","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T18:16:00.813Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:16:00.967Z","userId":5814590204}
+{"error":"Waiting for selector `table tr` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract attendance data","timestamp":"2024-11-18T18:21:52.310Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:21:52.384Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-table-tbody tr` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract attendance data","timestamp":"2024-11-18T18:24:49.149Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:24:49.225Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:34:57.106Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:34:57.185Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress.ant-progress-line.ant-progress-status-normal.ant-progress-show-info.ant-progress-default` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:37:07.591Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:37:07.672Z","userId":5814590204}
+{"error":"Waiting for selector `div.ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:39:37.346Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:39:37.414Z","userId":5814590204}
+{"error":"Waiting for selector `div.ant-progress.ant-progress-line .ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:43:18.878Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:43:18.946Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress.ant-progress-line .ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:44:52.069Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:44:52.150Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress.ant-progress-line .ant-progress-bg` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:45:57.000Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:45:57.072Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress.ant-progress-line .ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:47:36.600Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:47:36.667Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:50:47.600Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:50:47.688Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T18:56:21.434Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T18:56:21.509Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress-bg, .attendance-progress, .progress-bar` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:00:01.188Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:00:01.270Z","userId":5814590204}
+{"error":"Navigation timeout of 60000 ms exceeded","level":"error","message":"Login failed","mobileNumber":"9949290164","timestamp":"2024-11-18T19:03:08.799Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:03:08.875Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress-bg, .attendance-progress, .progress-bar` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:04:49.644Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:04:49.720Z","userId":5814590204}
+{"error":"Waiting for selector `.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:07:05.109Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:07:05.180Z","userId":5814590204}
+{"error":"Waiting for selector `[class*=\"ant-progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:19:09.194Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:19:09.278Z","userId":5814590204}
+{"error":"Waiting for selector `[class*=\"ant-progress-inner\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:20:45.209Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:20:45.290Z","userId":5814590204}
+{"error":"Waiting for selector `div.ant-progress.ant-progress-line.ant-progress-status-normal.ant-progress-show-info.ant-progress-default` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-18T19:23:15.887Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-18T19:23:15.968Z","userId":5814590204}
+{"error":"Waiting for selector `div.ant-progress.ant-progress-line.ant-progress-status-normal.ant-progress-show-info.ant-progress-default` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T14:53:36.689Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T14:53:36.755Z","userId":5814590204}
+{"error":"Waiting for selector `div.ant-progress.ant-progress-line.ant-progress-status-normal.ant-progress-show-info.ant-progress-default.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T14:54:53.223Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T14:54:53.294Z","userId":5814590204}
+{"error":"Waiting for selector `div.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T14:56:37.227Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T14:56:37.305Z","userId":5814590204}
+{"error":"Waiting for selector `div.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T15:05:00.070Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T15:05:00.159Z","userId":5814590204}
+{"error":"Waiting for selector `div.ant-progress-success-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T15:11:24.287Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T15:11:24.390Z","userId":5814590204}
+{"error":"Waiting for selector `div[class*=\"progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T15:13:35.472Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T15:13:35.555Z","userId":5814590204}
+{"error":"Waiting for selector `div.ant-progress-bg` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T16:37:37.815Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T16:37:37.895Z","userId":5814590204}
+{"error":"Waiting for selector `div[class*=\"ant-progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T16:43:49.891Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T16:43:49.967Z","userId":5814590204}
+{"error":"waitForProgressBar is not defined","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-19T16:45:59.012Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-19T16:45:59.142Z","userId":5814590204}
+{"error":"Waiting for selector `div[class*=\"ant-progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-20T10:37:39.977Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T10:37:40.078Z","userId":5814590204}
+{"error":"Waiting for selector `div[class*=\"ant-progress-bg\"]` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract total attendance","timestamp":"2024-11-20T14:43:42.410Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T14:43:42.504Z","userId":5814590204}
+{"error":"this.page.$x is not a function","level":"error","message":"Failed to extract overall attendance","timestamp":"2024-11-20T14:46:01.733Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T14:46:01.808Z","userId":5814590204}
+{"error":"this.page.$x is not a function","level":"error","message":"Failed to extract overall attendance","timestamp":"2024-11-20T14:52:08.953Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T14:52:09.041Z","userId":5814590204}
+{"error":"Cannot read properties of undefined (reading 'length')","level":"error","message":"Failed to extract overall attendance","timestamp":"2024-11-20T14:53:25.575Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T14:53:25.658Z","userId":5814590204}
+{"error":"request to https://api.telegram.org/bot7974322122:[REDACTED]/getMe failed, reason: getaddrinfo ENOTFOUND api.telegram.org","level":"error","message":"Failed to start bot","timestamp":"2024-11-20T15:26:01.287Z"}
+{"error":"ctx.message.text.trim(...).tolowerCase is not a function","level":"error","message":"Bot error","timestamp":"2024-11-20T16:18:53.634Z"}
+{"error":"Navigation timeout of 30000 ms exceeded","level":"error","message":"Login failed","mobileNumber":"7337427250","timestamp":"2024-11-20T16:29:38.117Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T16:29:38.190Z","userId":5814590204}
+{"error":"request to https://api.telegram.org/bot7974322122:[REDACTED]/getMe failed, reason: getaddrinfo ENOTFOUND api.telegram.org","level":"error","message":"Failed to start bot","timestamp":"2024-11-20T17:38:14.621Z"}
