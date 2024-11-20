@@ -782,3 +782,16 @@
 {"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T17:58:13.422Z"}
 {"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T17:58:13.428Z"}
 {"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T17:58:13.514Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T18:07:17.042Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T18:07:17.835Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T18:07:17.881Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T18:07:22.446Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T18:07:25.030Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T18:07:25.115Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T18:07:27.801Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T18:07:28.423Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T18:07:28.424Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T18:07:30.173Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T18:07:30.188Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T18:07:30.192Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T18:07:30.299Z"}
