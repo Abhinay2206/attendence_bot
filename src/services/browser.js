@@ -1,4 +1,4 @@
-const puppeteer = require('puppeteer');
+const { chromium } = require('playwright');
 const logger = require('../utils/logger');
 
 class BrowserService {
@@ -8,12 +8,12 @@ class BrowserService {
 
   async initialize() {
     try {
-      logger.info('Initializing Chrome browser');
-      this.browser = await puppeteer.launch({
+      logger.info('Initializing Chromium browser with Playwright');
+      this.browser = await chromium.launch({
         headless: true,
-        args: ['--no-sandbox']
+        args: ['--no-sandbox'],
       });
-      logger.info('Chrome browser initialized successfully');
+      logger.info('Chromium browser initialized successfully');
       return this.browser;
     } catch (error) {
       logger.error('Failed to initialize browser', { error: error.message });

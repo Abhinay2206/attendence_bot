@@ -5,11 +5,12 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "postinstall": "node node_modules/puppeteer/install.js"
+    "postinstall": "npx playwright install"
   },
   "dependencies": {
     "dotenv": "^16.3.1",
     "nodemon": "^3.0.2",
+    "playwright": "^1.49.0",
     "punycode": "^2.3.1",
     "puppeteer": "^23.8.0",
     "telegraf": "^4.15.3",
