@@ -17,7 +17,7 @@ bot.catch((err, ctx) => {
   ctx.reply('🚨 Oops! An unexpected error occurred. Please try again later.');
 });
 
-bot.command('s', (ctx) => {
+bot.command('start', (ctx) => {
   userSessions.set(ctx.from.id, { step: 'askInstitute' }); 
   ctx.reply('👋 Welcome to the Attendance Bot!\nAre you from *NGIT* or *KMEC*? Please reply with *ngit* or *kmec*.\n\n✨ Note: This will only work if your password in the Netra portal is the default password, i.e., *Ngit123$* or *Kmec123$*.', {
     parse_mode: 'Markdown',
@@ -29,7 +29,7 @@ bot.on('text', async (ctx) => {
   const userSession = userSessions.get(userId);
 
   if (!userSession) {
-    return ctx.reply('⚠️ Please start with the /s command to begin.');
+    return ctx.reply('⚠️ Please start with the /start command to begin.');
   }
 
   const userInput = ctx.message.text.trim().toUpperCase();
