@@ -41,8 +41,8 @@ class PortalService {
 
       logger.info('Navigating to attendance page after login');
       const attendanceUrl = institute === 'NGIT' 
-        ? 'http://ngit-sanjaya.teleuniv.in/parent/attendance' 
-        : 'http://kmec-sanjaya.teleuniv.in/parent/attendance';
+        ? 'http://ngit-netra.teleuniv.in/student/attendance' 
+        : 'http://kmec-netra.teleuniv.in/student/attendance';
       await this.page.goto(attendanceUrl, {
         waitUntil: 'domcontentloaded',
         timeout: constants.TIMEOUTS.NAVIGATION

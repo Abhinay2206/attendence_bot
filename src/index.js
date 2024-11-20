@@ -6,8 +6,8 @@ const logger = require('./utils/logger');
 const bot = new Telegraf(process.env.BOT_TOKEN);
 
 const PORTAL_URLS = {
-  NGIT: 'http://ngit-sanjaya.teleuniv.in/',
-  KMEC: 'http://kmec-sanjaya.teleuniv.in/',
+  NGIT: 'http://ngit-netra.teleuniv.in/',
+  KMEC: 'http://kmec-netra.teleuniv.in/',
 };
 
 const userSessions = new Map();
@@ -19,7 +19,7 @@ bot.catch((err, ctx) => {
 
 bot.command('s', (ctx) => {
   userSessions.set(ctx.from.id, { step: 'askInstitute' }); 
-  ctx.reply('👋 Welcome to the Attendance Bot!\nAre you from *NGIT* or *KMEC*? Please reply with *ngit* or *kmec*.\n\n✨ Note: This will only work if your password in the Sanjaya portal is the default password, i.e., *Ngit123$* or *Kmec123$*.', {
+  ctx.reply('👋 Welcome to the Attendance Bot!\nAre you from *NGIT* or *KMEC*? Please reply with *ngit* or *kmec*.\n\n✨ Note: This will only work if your password in the Netra portal is the default password, i.e., *Ngit123$* or *Kmec123$*.', {
     parse_mode: 'Markdown',
   });
 });
