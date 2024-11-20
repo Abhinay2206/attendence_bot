@@ -745,3 +745,40 @@
 {"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T16:29:38.190Z"}
 {"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T16:29:38.190Z","userId":5814590204}
 {"error":"request to https://api.telegram.org/bot7974322122:[REDACTED]/getMe failed, reason: getaddrinfo ENOTFOUND api.telegram.org","level":"error","message":"Failed to start bot","timestamp":"2024-11-20T17:38:14.621Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T17:52:49.238Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T17:52:50.107Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T17:52:50.169Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T17:52:53.467Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T17:52:55.317Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T17:52:55.393Z"}
+{"level":"info","message":"Login successful","timestamp":"2024-11-20T17:52:57.815Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T17:52:57.816Z"}
+{"error":"Waiting for selector `.ant-collapse-item:has-text(\"Overall\")` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract attendance","timestamp":"2024-11-20T17:53:57.821Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T17:53:57.904Z"}
+{"error":"Unable to connect to the attendance portal. Please try again later.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T17:53:57.905Z","userId":5814590204}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T17:54:11.937Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T17:54:12.404Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T17:54:12.424Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T17:54:15.621Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T17:54:17.421Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T17:54:17.494Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T17:54:18.997Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T17:54:19.547Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T17:54:19.548Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T17:54:21.300Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T17:54:21.321Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T17:54:21.327Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T17:54:21.423Z"}
+{"level":"info","message":"Initializing Chrome browser","timestamp":"2024-11-20T17:58:02.625Z"}
+{"level":"info","message":"Chrome browser initialized successfully","timestamp":"2024-11-20T17:58:03.080Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-sanjaya.teleuniv.in/","timestamp":"2024-11-20T17:58:03.107Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T17:58:06.902Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T17:58:09.190Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T17:58:09.260Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T17:58:10.900Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T17:58:11.425Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T17:58:11.426Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T17:58:13.404Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T17:58:13.422Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T17:58:13.428Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T17:58:13.514Z"}

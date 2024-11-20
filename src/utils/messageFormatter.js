@@ -4,9 +4,9 @@ class MessageFormatter {
       return '❌ No attendance data found.';
     }
 
-    let message = '📊 *Attendance Report*\n\n';
-    message += `📈 *Overall Attendance: ${totalAttendance}%*\n`;
-    message += '\n_Updated as of ' + new Date().toLocaleDateString() + '_';
+    let message = '📊 *✨ Attendance Report ✨*\n\n';
+    message += `📈 *Overall Attendance: ${totalAttendance}%* 🎉\n`;
+    message += '\n🕒 _Last Updated: ' + new Date().toLocaleString() + '_\n';
 
     return message;
   }

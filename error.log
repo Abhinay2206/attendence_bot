@@ -116,3 +116,5 @@
 {"error":"Navigation timeout of 30000 ms exceeded","level":"error","message":"Login failed","mobileNumber":"7337427250","timestamp":"2024-11-20T16:29:38.117Z"}
 {"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T16:29:38.190Z","userId":5814590204}
 {"error":"request to https://api.telegram.org/bot7974322122:[REDACTED]/getMe failed, reason: getaddrinfo ENOTFOUND api.telegram.org","level":"error","message":"Failed to start bot","timestamp":"2024-11-20T17:38:14.621Z"}
+{"error":"Waiting for selector `.ant-collapse-item:has-text(\"Overall\")` failed: Waiting failed: 60000ms exceeded","level":"error","message":"Failed to extract attendance","timestamp":"2024-11-20T17:53:57.821Z"}
+{"error":"Unable to connect to the attendance portal. Please try again later.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-20T17:53:57.905Z","userId":5814590204}

@@ -64,7 +64,6 @@ class PortalService {
         timeout: constants.TIMEOUTS.ELEMENT_WAIT,
       });
   
-      // Expand the "Overall" section using a CSS selector
       logger.info('Expanding the "Overall" attendance section');
       await this.page.evaluate(() => {
         const overallSection = Array.from(document.querySelectorAll('.ant-collapse-item')).find(section =>
@@ -77,14 +76,12 @@ class PortalService {
         }
       });
   
-      // Wait for the progress bar to load within the "Overall" section
       logger.info('Waiting for progress bar in "Overall" section');
       await this.page.waitForSelector('.ant-collapse-item-active .ant-progress-bg', {
         visible: true,
         timeout: constants.TIMEOUTS.ELEMENT_WAIT,
       });
   
-      // Extract attendance percentage from the "Overall" section
       const overallAttendance = await this.page.evaluate(() => {
         const overallProgressElement = document.querySelector('.ant-collapse-item-active .ant-progress-bg');
         if (!overallProgressElement) {
@@ -94,13 +91,11 @@ class PortalService {
         const computedStyle = window.getComputedStyle(overallProgressElement);
         const widthStyle = computedStyle.getPropertyValue('width');
   
-        // Check if attendance is expressed as a percentage in style
         const percentageMatch = overallProgressElement.style.width.match(/([\d.]+)%/);
         if (percentageMatch && percentageMatch[1]) {
           return parseFloat(percentageMatch[1]).toFixed(2);
         }
   
-        // Fallback: Check the computed width in pixels
         if (widthStyle && widthStyle.includes('px')) {
           const pixelWidth = parseFloat(widthStyle);
           const containerWidth = overallProgressElement.parentElement.clientWidth;
