@@ -2,27 +2,31 @@ const browserService = require('./services/browser');
 const PortalService = require('./services/portal');
 const MessageFormatter = require('./utils/messageFormatter');
 
-async function fetchAttendance(portalUrl,mobileNumber,institute) {
+async function fetchAttendance(portalUrl, mobileNumber, institute) {
   let browser;
   try {
+    // Initialize the browser and portal service
     browser = await browserService.initialize();
     const page = await browser.newPage();
     const portalService = new PortalService(page);
 
-    await portalService.login(portalUrl, mobileNumber,institute);
-    const attendanceData = await portalService.extractAttendanceData();
+    // Login and fetch attendance data
+    await portalService.login(portalUrl, mobileNumber, institute);
+    const overallAttendance = await portalService.extractAttendanceData();
+    const todaysAttendance = await portalService.extractTodaysAttendance();
 
-    console.log('Extracted Attendance Data:', attendanceData);
+    console.log('Extracted Attendance Data:', { overallAttendance, todaysAttendance });
 
-    return MessageFormatter.formatAttendanceReport(attendanceData.overallAttendance);
+    // Format the attendance report
+    return MessageFormatter.formatAttendanceReport(overallAttendance.overallAttendance, todaysAttendance);
+
   } catch (error) {
-    if (error.name === 'TimeoutError') {
-      throw new Error('Unable to connect to the attendance portal. Please try again later.');
-    }
-
+    // Handle errors properly
     console.error('Error in fetchAttendance:', error.message);
+
     throw new Error('Failed to fetch attendance data. Please check your mobile number and try again.');
   } finally {
+    // Ensure the browser is closed
     if (browser) {
       await browserService.close();
     }

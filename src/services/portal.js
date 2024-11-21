@@ -114,7 +114,41 @@ class PortalService {
       logger.error('Failed to extract overall attendance', { error: errorMessage });
       throw new Error(`Failed to extract overall attendance: ${errorMessage}`);
     }
+  } 
+  
+  async extractTodaysAttendance() {
+    try {
+      logger.info('Extracting today\'s attendance');
+      
+      await this.page.waitForSelector('.ant-collapse-content-active .ant-collapse-content-box', {
+        visible: true,
+        timeout: constants.TIMEOUTS.ELEMENT_WAIT,
+      });
+  
+      const todaysAttendance = await this.page.evaluate(() => {
+        const attendanceIcons = Array.from(
+          document.querySelectorAll('.ant-collapse-content-active .ant-collapse-content-box svg')
+        );
+        
+        return attendanceIcons.map(icon => {
+          const fillColor = icon.getAttribute('fill');
+          if (fillColor === 'green') {
+            return '🟢'; // Green circle
+          } else if (fillColor === 'red') {
+            return '🔴'; // Red circle
+          } else {
+            return '⚪️'; // Empty circle
+          }
+        }).slice(0, 7); // Ensure only 7 attendance icons are returned
+      });
+  
+      logger.info('Successfully extracted today\'s attendance', { todaysAttendance });
+      return todaysAttendance;
+    } catch (error) {
+      const errorMessage = error.message || 'Unknown error';
+      logger.error('Failed to extract today\'s attendance', { error: errorMessage });
+      throw new Error(`Failed to extract today's attendance: ${errorMessage}`);
+    }
   }  
 }
-
 module.exports = PortalService;

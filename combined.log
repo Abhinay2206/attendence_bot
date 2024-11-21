@@ -856,3 +856,188 @@
 {"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T19:22:19.118Z"}
 {"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T19:22:19.124Z"}
 {"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T19:22:19.168Z"}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-20T20:00:15.817Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-20T20:00:16.048Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-20T20:00:16.143Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-20T20:00:20.539Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-20T20:00:23.365Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-20T20:00:23.501Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-20T20:00:26.116Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-20T20:00:26.752Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-20T20:00:26.753Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-20T20:00:28.580Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-20T20:00:28.606Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"76.74","timestamp":"2024-11-20T20:00:28.614Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-20T20:00:28.662Z"}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:34:36.072Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:34:37.351Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:34:37.482Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:34:40.916Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:34:43.731Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:34:43.824Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:34:45.395Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:34:45.843Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:34:45.843Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:34:48.170Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:34:48.191Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:34:48.198Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:34:48.198Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:34:48.200Z","todaysAttendance":["✔️","✔️","✔️","✔️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:34:48.220Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-21T08:34:48.220Z","userId":5814590204}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:36:32.929Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:36:33.123Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:36:33.224Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:36:36.220Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:36:39.051Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:36:39.133Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:36:40.828Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:36:41.277Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:36:41.278Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:36:43.113Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:36:43.138Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:36:43.146Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:36:43.146Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:36:43.149Z","todaysAttendance":["✔️","✔️","✔️","✔️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:36:43.228Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-21T08:36:43.228Z","userId":5814590204}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:38:41.958Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:38:42.166Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:38:42.262Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:38:45.277Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:38:56.710Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:38:56.808Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:38:58.271Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:38:58.717Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:38:58.717Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:39:00.560Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:39:00.588Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:39:00.596Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:39:00.596Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:39:00.598Z","todaysAttendance":["✔️","✔️","✔️","✔️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:39:00.621Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-21T08:39:00.621Z","userId":5814590204}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:40:22.601Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:40:22.835Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:40:22.975Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:40:26.195Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:40:29.016Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:40:29.092Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:40:30.594Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:40:31.044Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:40:31.045Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:40:32.877Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:40:32.900Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:40:32.907Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:40:32.907Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:40:32.910Z","todaysAttendance":["✔️","✔️","✔️","✔️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:40:32.929Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-21T08:40:32.929Z","userId":5814590204}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:41:10.756Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:41:10.953Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:41:11.035Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:41:15.838Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:41:18.655Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:41:18.738Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:41:20.186Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:41:20.633Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:41:20.634Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:41:22.477Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:41:22.492Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:41:22.498Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:41:22.498Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:41:22.501Z","todaysAttendance":["✔️","✔️","✔️","✔️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:41:22.516Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-21T08:41:22.516Z","userId":5814590204}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:42:54.029Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:42:54.234Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:42:54.329Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:42:58.610Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:43:01.952Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:43:02.053Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:43:03.648Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:43:04.105Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:43:04.106Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:43:05.935Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:43:05.962Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:43:05.969Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:43:05.969Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:43:05.972Z","todaysAttendance":["✔️","✔️","✔️","✔️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:43:05.994Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-21T08:43:05.995Z","userId":5814590204}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:43:44.130Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:43:44.248Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:43:44.315Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:43:48.317Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:43:51.657Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:43:51.743Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:43:53.225Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:43:53.678Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:43:53.679Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:43:55.502Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:43:55.519Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:43:55.525Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:43:55.526Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:43:55.528Z","todaysAttendance":["✔️","✔️","✔️","✔️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:43:55.545Z"}
+{"error":"Failed to fetch attendance data. Please check your mobile number and try again.","level":"error","message":"Attendance fetch error","timestamp":"2024-11-21T08:43:55.545Z","userId":5814590204}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:45:25.334Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:45:25.524Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:45:25.639Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:45:29.645Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:45:33.506Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:45:33.617Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:45:35.301Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:45:35.757Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:45:35.757Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:45:37.582Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:45:37.608Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:45:37.615Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:45:37.615Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:45:37.618Z","todaysAttendance":["✔️","✔️","✔️","✔️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️","⭕️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:45:37.915Z"}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:46:53.203Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:46:53.400Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:46:53.500Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:47:00.726Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:47:04.064Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:47:04.166Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:47:07.512Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:47:08.276Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:47:08.276Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:47:10.118Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:47:10.145Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:47:10.153Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:47:10.153Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:47:10.155Z","todaysAttendance":["🟢","🟢","🟢","🟢","⚪️","⚪️","⚪️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:47:10.190Z"}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:48:15.764Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:48:15.995Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:48:16.123Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:48:22.932Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:48:25.773Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:48:25.874Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:48:27.558Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:48:28.016Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:48:28.017Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:48:30.348Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:48:30.371Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:48:30.377Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:48:30.377Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:48:30.379Z","todaysAttendance":["🟢","🟢","🟢","🟢","⚪️","⚪️","⚪️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:48:30.414Z"}
+{"level":"info","message":"Initializing Chromium browser with Playwright","timestamp":"2024-11-21T08:49:06.785Z"}
+{"level":"info","message":"Chromium browser initialized successfully","timestamp":"2024-11-21T08:49:06.984Z"}
+{"level":"info","message":"Navigating to portal: http://ngit-netra.teleuniv.in/","timestamp":"2024-11-21T08:49:07.092Z"}
+{"level":"info","message":"Waiting for login form","timestamp":"2024-11-21T08:49:13.128Z"}
+{"level":"info","message":"Filling login credentials","timestamp":"2024-11-21T08:49:16.978Z"}
+{"level":"info","message":"Submitting login form","timestamp":"2024-11-21T08:49:17.092Z"}
+{"level":"info","message":"Navigating to attendance page after login","timestamp":"2024-11-21T08:49:19.024Z"}
+{"level":"info","message":"Login and navigation successful","timestamp":"2024-11-21T08:49:19.477Z"}
+{"level":"info","message":"Waiting for attendance section","timestamp":"2024-11-21T08:49:19.478Z"}
+{"level":"info","message":"Expanding the \"Overall\" attendance section","timestamp":"2024-11-21T08:49:23.824Z"}
+{"level":"info","message":"Waiting for progress bar in \"Overall\" section","timestamp":"2024-11-21T08:49:23.847Z"}
+{"level":"info","message":"Successfully extracted overall attendance","overallAttendance":"77.27","timestamp":"2024-11-21T08:49:23.853Z"}
+{"level":"info","message":"Extracting today's attendance","timestamp":"2024-11-21T08:49:23.854Z"}
+{"level":"info","message":"Successfully extracted today's attendance","timestamp":"2024-11-21T08:49:23.857Z","todaysAttendance":["🟢","🟢","🟢","🟢","⚪️","⚪️","⚪️"]}
+{"level":"info","message":"Browser closed successfully","timestamp":"2024-11-21T08:49:23.892Z"}
