@@ -24,7 +24,7 @@ async function fetchAttendance(portalUrl, mobileNumber, institute) {
     // Handle errors properly
     console.error('Error in fetchAttendance:', error.message);
 
-    throw new Error('Failed to fetch attendance data. Please check your mobile number and try again.');
+    throw new Error('Failed to fetch attendance data. Please check your mobile number and ensure you are using the correct default password (Kmec123$ or Ngit123$) and try again.');
   } finally {
     // Ensure the browser is closed
     if (browser) {
