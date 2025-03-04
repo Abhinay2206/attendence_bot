@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "postinstall": "npx playwright install-deps"
+    "postinstall": "npx playwright install"
   },
   "dependencies": {
     "dotenv": "^16.3.1",
